@@ -15,7 +15,7 @@ body{
 }
 
 .calculator{
-    border:1px solid #717377;
+    border:3px solid #eaecf0;
      padding:20px;
      border-radius: 16px;
      background:transparent;
@@ -33,7 +33,7 @@ input{
     text-align:right;
     cursor:pointer;
     color:#04f761;
-    border:2px solid #ffff;
+    border:3px solid #ffff;
     border-radius: 30px;
 }
 input::placeholder{
@@ -47,17 +47,17 @@ button{
     margin:10px;
     border-radius: 50%;
     background:transparent;
-    color:#3fa24f;
+    color:#e0e0ea;
+    background: rgba(89, 189, 189, 0.674);
     font-size:20px;
     box-shadow: 8px,8px,15px rgba(255,255,255,0.1);
     cursor:pointer;
 
 }
 .equalBtn{
-    background-color: #fb7c13;
+    background-color: #df6b0c;
 
 
 }
 .operator{
     color:#27b9cf;
-}
